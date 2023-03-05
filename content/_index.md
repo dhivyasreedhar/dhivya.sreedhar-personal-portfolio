@@ -13,8 +13,8 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text:
     design:
-      view: compact
       columns: '2'
+      view: compact
   - block: features
     content:
       title: Skills
@@ -201,8 +201,8 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      #text: |-
+       #Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: dhivyasreedhar@gmail.com
       phone: +91 9677021836
