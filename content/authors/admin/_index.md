@@ -8,7 +8,15 @@ interests:
   - Artificial Intelligence
   - Machine Learning
   - Deep Learning
-social:
+organizations:
+  - name: Zoho Corporation
+    url: " https://www.zohocorp.com/"
+education:
+  courses:
+    - course: BE in Computer Science Engineering
+      institution: Easwari Engineering College
+      year: 2018-2022
+ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
@@ -26,20 +34,12 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-organizations:
-  - name: Zoho Corporation
-    url: " https://www.zohocorp.com/"
-education:
-  courses:
-    - course: BE in Computer Science Engineering
-      institution: Easwari Engineering College
-      year: 2018
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: S
 highlight_name: true
-first_name: Alice
+first_name: Dhivya
 email: dhivyasreedhar@gmail.com
 ---
 **Hi! Welcome to my webpage!**
