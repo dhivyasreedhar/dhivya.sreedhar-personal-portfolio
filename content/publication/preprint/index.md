@@ -1,69 +1,51 @@
 ---
-title: "An example preprint / working paper"
-authors:
-- admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["3"]
-
-# Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-- Source Themes
-featured: false
-
-links:
-- name: Custom Link
-  url: http://example.org
+title: LANE AND TRAFFIC SIGN DETECTION IN SELF-DRIVING CARS USING DEEP LEARNING
+abstract: With artificial intelligence technology progressing at a tremendous
+  speed, intelligent driving has gotten a lot of recognition in recent years.
+  Lane detection is one of the primary functions in self-driving cars.
+  Traditionally, lane detection was done using image processing algorithms and
+  computer vision techniques, which included extraction of areas which are
+  possible lane areas, edge enhancement etc. Deep learning models with new
+  improvements are being introduced till date. A self-driving car must also be
+  able to identify traffic signs. In the proposed work a VGG-16 convolutional
+  neural network is used for road segmentation. The model is trained on the
+  KITTI Road/Lane Detection Evaluation 2013 dataset. The model performed well
+  with an accuracy of 98.58 %. For traffic sign detection, the German Traffic
+  Sign Recognition Benchmark dataset is used. A convolutional neural network is
+  used with ADAM optimizer, which gives an accuracy of 95%.
+slides: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+publication_types:
+  - "3"
+authors:
+  - S.Dhivya
+  - B.Padmavathi
+  - Kavitha Datchanamoorthy
+  - Aneesa K Banu
+  - Mukesh Karthikeyan S
+publication: ""
+featured: false
+tags:
+  - Source Themes
+projects: []
+summary: ""
+url_dataset: "#"
+url_project: ""
+publication_short: ""
+url_source: "#"
+url_video: "#"
+date: 2019-04-07T00:00:00Z
+url_slides: ""
+links:
+  - name: Custom Link
+    url: http://example.org
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- internal-project
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+publishDate: 2017-01-01T00:00:00Z
+url_poster: "#"
+url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+doi: ""
 ---
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
