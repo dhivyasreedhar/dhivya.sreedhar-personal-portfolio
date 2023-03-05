@@ -16,7 +16,7 @@ education:
     - course: BE in Computer Science Engineering
       institution: Easwari Engineering College
       year: 2018-2022
- social:
+social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
