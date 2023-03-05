@@ -88,6 +88,15 @@ sections:
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
       items:
+        - certificate_url: "assets/media/SS2022_Certificate-70 IIITH Summer school AI.pdf"
+          date_end: "2022-08-19"
+          date_start: "2022-07-18"
+          description: "Selected as a Summer Scholar for the 6th Summer School on Artificial Intelligence 2021 organized by Centre for Visual Information Technology             (CVIT), International Institute of Information Technology Hyderabad from 18 July - 19 August 2022"
+          organization: CVIT
+          organization_url: http://cvit.iiit.ac.in/summerschool2021/index.php
+          title: Summer School Scholar at CVIT Summer School on AI 2021
+          url: ""
+          company_logo: cvit
        
 
     
