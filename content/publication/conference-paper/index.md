@@ -31,11 +31,12 @@ author_notes:
   - Equal contribution
 publication: In *Springer International Publishing*
 summary: ""
-url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
-url_project: ""
-publication_short: ""
-url_source: https://github.com/wowchemy/wowchemy-hugo-themes
-url_video: https://youtube.com
+url_pdf: 'content/publication/conference-paper/conference-paper.pdf'
+#url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
+#url_project: ""
+#publication_short: ""
+#url_source: https://github.com/wowchemy/wowchemy-hugo-themes
+#url_video: https://youtube.com
 title: "'Comparison of Convolutional Neural Networks and K-Nearest Neighbors for
   Music Instrument Recognition'"
 doi: ""
@@ -50,5 +51,5 @@ date: 2013-07-01T00:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+#url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
