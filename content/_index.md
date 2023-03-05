@@ -80,7 +80,7 @@ sections:
             
     design:
       columns: '2'
-  - block: accomplishments
+   - block: accomplishments
     id: awards
     content:
       title: 'Awards & Honors'
