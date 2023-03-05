@@ -45,3 +45,6 @@ email: dhivyasreedhar@gmail.com
 **Hi! Welcome to my webpage!**
 
 I am a  Computer Science Engineering undergraduate who is passionate about Machine Learning and Software Development. By comprehensive exposure to the underlying concepts and applying them vividly to various projects, my love for these domains came into being. I am a passionate individual who thrives to build and apply algorithms to solve real-world industry problems.
+{style="text-align: justify;"}
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
