@@ -15,23 +15,8 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -42,34 +27,67 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+     
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Software Developer
+          company: Zoho Corporation
+          company_url: 'https://www.manageengine.com/cloud-siem/features/cloud-based-log-management.html'
+          company_logo: ZOHO
+          location: Chennai, India
+          date_start: '2022-08-18'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              
+              * Part of the Manage Engine - Log360 Cloud OD Team
+              * Using ember js, Java, MySQL tech stack
+              * Worked on the search page feature enhancement of the product
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              
+        - title: Programmer Analyst Trainee Intern
+          company: Cognizant Technology Solutions
+          company_url: 'https://www.cognizant.com/us/en/services/ai'
+          company_logo: Cognizant's_logo
+          location: Chennai, India
+          date_start: '2022-01-01'
+          date_end: '2022-08-01'
+          description: |2-
+            * Part of the Artificial Intelligence and Analytics (AIA) - Informatica Cloud Team
+            * Analysed and tested Data warehousing techniques, ETL tools
+            * Created various mappings using Infomatica Powercenter, IICS
+        - title: Undergraduate Researcher
+          company: SRM Easwari Engineering College
+          company_url: 'https://srmeaswari.ac.in/'
+          company_logo: 
+          location: Chennai, India
+          date_start: '2021-05-01'
+          date_end: '2022-12-01'
+          description: |2-
+            Research intern under Prof. KPK Devan, Dept of Computer Science and Engineering:
+            * Worked on a fake tweet detection system that detects fake tweets related to COVID 19
+            * Extracted tweets related to COVID 19 using tweepy and the twitter API
+            * Developed an LSTM based model to detect fake tweets using NLP
+        
+        - title: Summer Research Intern
+          company: NIT Calicut
+          company_url: 'http://www.nitc.ac.in/'
+          company_logo: nitc_logo_icon
+          location: India
+          date_start: '2021-06-01'
+          date_end: '2021-07-01'
+          description: |2-
+            Research intern under Prof. Prabu Mohandas, Dept of Computer Science and Engineering:
+            * Developed a Music Instrument Recognition System
+            * Built CNN and KNN models and analysed their performance
+            * Both models performed with accuracy above 90%
+        
+            
     design:
       columns: '2'
-  - block: accomplishments
+ - block: accomplishments
+    id: online courses
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Online Courses'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -79,32 +97,49 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://drive.google.com/file/d/1tkQCa9aGsiyZMbrh6n93l3CdUydZLqwN/view
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2021-01-01'
           description: ''
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: Object Oriented Data Structures in C++
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
           description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          organization: Coursera
+          organization_url: https://www.coursera.org 
+          title: Audio Classification with Tensorflow
+          url: 
+        - certificate_url: https://drive.google.com/file/d/1kM3I5KKqnrRmU7yKPczZG08qh4IQCVrX/view?usp=sharing
+          date_end: ''
+          date_start: '2021-01-01'
+          description: ''
+          organization: Coursera
+          organization_url: https://www.coursera.org 
+          title: What is Data Science?
           url: ''
+        - certificate_url: https://drive.google.com/file/d/1nkUZCe6FgNVjQ2Mxr9tL0Lz3m-Jw4y5E/view?usp=sharing
+          date_end: ''
+          date_start: '2021-01-01'
+          description: ''
+          organization: Coursera
+          organization_url: https://www.coursera.org 
+          title: Introduction to Tensorflow for Artificial Itelligence, Machine Learning and Deep Learning
+          url: ''
+        # - certificate_url:
+        #   date_end: ''
+        #   date_start: '2021'
+        #   description: ''
+        #   organization:
+        #   organization_url: 
+        #   title: ''
+        #   url: '' 
     design:
       columns: '2'
+ 
   - block: collection
     id: posts
     content:
