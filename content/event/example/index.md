@@ -12,8 +12,8 @@ url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
 title: Guest Lecture on Visual Perception using Deep Learning
 location: " Easwari Engineering College, Chennai, India"
-date: 2022-11-21T04:00:00.000Z
-date_end: 2022-11-21T05:30:00.000Z
+date: 2022-11-21T09:30:00.000Z
+date_end: 2022-11-21T11:00:00.000Z
 all_day: false
 #event: "  "
 #event_url: "  "
@@ -21,12 +21,7 @@ featured: false
 authors: []
 url_video: ""
 url_slides: ""
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
-  country: United States
+
 links: []
 publishDate: 2017-01-01T00:00:00Z
 tags: []
