@@ -1,7 +1,6 @@
 ---
 title: Fake Tweet Detection
-subtitle: " A Convolutional Neural Network which is trained to detect COVID 19
-  even in asymptotic patients using only cough recordings."
+subtitle: " A LSTM Model is trained to detect fake tweets from twitter"
 date: 2023-03-04T13:01:27.912Z
 draft: false
 featured: false
@@ -17,6 +16,13 @@ image:
 ---
 <!--StartFragment-->
 
- A Convolutional Neural Network which is trained to detect COVID 19 even in asymptotic patients using only cough recordings.
+ 2 models are trained:
+
+* A﻿ Bidirectional stacked LSTM using pre-trained embedded vectors
+* A﻿ Bidirectional stacked LSTM  without pre-trained embedded vectors from GLOVE
+
+
+
+B﻿oth models performed well and gave accuracy of about 99%
 
 <!--EndFragment-->
