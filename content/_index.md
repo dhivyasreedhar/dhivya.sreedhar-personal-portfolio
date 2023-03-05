@@ -88,7 +88,7 @@ sections:
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
       items:
-        - certificate_url: "assets/media/SS2022_Certificate-70 IIITH Summer school AI.pdf"
+        - certificate_url: 'assets/media/SS2022_Certificate-70 IIITH Summer school AI.pdf'
           date_end: "2022-08-19"
           date_start: "2022-07-18"
           description: "Selected as a Summer Scholar for the 6th Summer School on Artificial Intelligence 2021 organized by Centre for Visual Information Technology             (CVIT), International Institute of Information Technology Hyderabad from 18 July - 19 August 2022"
@@ -97,7 +97,16 @@ sections:
           title: Summer School Scholar at CVIT Summer School on AI 2021
           url: ""
           company_logo: cvit
-       
+          
+        - certificate_url: ''
+          description: "Selected for the Inspire Science camp, organized by SSN college of Engineering, sponsored by the Department of Science and Technology,                   Government of India. The basic objective of INSPIRE would be tocommunicate the excitements of creative pursuit of science to the youth population of the               country and attract talent to the study of science at an early stage and build the required critical human resource pool for strengthening and expanding the           Science & Technology system and Research and Development base.
+
+          The basic aim of INSPIRE is to instill scientific temper to the youth population of our country and to give them a flavor of bliss ingrained in creativity.             The camp will provide a forum for intensified, stimulating and brainstorming interaction between the participants and the highly esteemed mentors through               lectures, lab experiments and lab visits."
+          organization:
+          organization_url:
+          title: Innovation in Science Pursuit for Inspired Research (INSPIRE) 2017
+          url:""
+          company_logo: 
 
     
     
