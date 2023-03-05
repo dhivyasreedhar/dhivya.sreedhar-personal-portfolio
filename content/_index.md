@@ -83,7 +83,7 @@ sections:
             
     design:
       columns: '2'
- - block: accomplishments
+  - block: accomplishments
     id: online courses
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
