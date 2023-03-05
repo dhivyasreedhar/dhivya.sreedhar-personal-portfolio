@@ -9,7 +9,7 @@ abstract: "The Department of Computer Science and Engineering in association
   visual perceptions with Deep Learning. "
 slides: ""
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: Guest Lecture on Visual Perception using Deep Learning
 title: Guest Lecture on Visual Perception using Deep Learning
 location: " Easwari Engineering College, Chennai, India"
 date: 2022-11-21T09:30:00.000Z
