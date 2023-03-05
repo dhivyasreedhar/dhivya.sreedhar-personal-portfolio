@@ -15,8 +15,8 @@ location: " Easwari Engineering College, Chennai, India"
 date: 2022-11-21T04:00:00.000Z
 date_end: 2022-11-21T05:30:00.000Z
 all_day: false
-event: "  "
-event_url: "  "
+#event: "  "
+#event_url: "  "
 featured: false
 authors: []
 url_video: ""
