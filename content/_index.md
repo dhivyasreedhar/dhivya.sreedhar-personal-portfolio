@@ -18,6 +18,15 @@ sections:
     id: experience
     content:
       title: Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+     
       items:
         - title: Software Developer
           company: Zoho Corporation
@@ -69,6 +78,11 @@ sections:
             * Developed a Music Instrument Recognition System
             * Built CNN and KNN models and analysed their performance
             * Both models performed with accuracy above 90%
+        
+            
+    design:
+      columns: '2'
+  
         
             
     
