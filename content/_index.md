@@ -105,7 +105,7 @@ sections:
           organization:
           organization_url:
           title: Innovation in Science Pursuit for Inspired Research (INSPIRE) 2017
-          url:""
+          url: ""
           company_logo: 
 
     
