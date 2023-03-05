@@ -14,6 +14,73 @@ sections:
       text:
     design:
       columns: '2'
+  - block: experience
+    id: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+     
+      items:
+        - title: Software Developer
+          company: Zoho Corporation
+          company_url: 'https://www.manageengine.com/cloud-siem/features/cloud-based-log-management.html'
+          company_logo: ZOHO
+          location: Chennai, India
+          date_start: '2022-08-18'
+          date_end: ''
+          description: |2-
+              
+              * Part of the Manage Engine - Log360 Cloud OD Team
+              * Using ember js, Java, MySQL tech stack
+              * Worked on the search page feature enhancement of the product
+
+              
+        - title: Programmer Analyst Trainee Intern
+          company: Cognizant Technology Solutions
+          company_url: 'https://www.cognizant.com/us/en/services/ai'
+          company_logo: Cognizant's_logo
+          location: Chennai, India
+          date_start: '2022-01-01'
+          date_end: '2022-08-01'
+          description: |2-
+            * Part of the Artificial Intelligence and Analytics (AIA) - Informatica Cloud Team
+            * Analysed and tested Data warehousing techniques, ETL tools
+            * Created various mappings using Infomatica Powercenter, IICS
+        - title: Undergraduate Researcher
+          company: SRM Easwari Engineering College
+          company_url: 'https://srmeaswari.ac.in/'
+          company_logo: 
+          location: Chennai, India
+          date_start: '2021-05-01'
+          date_end: '2022-12-01'
+          description: |2-
+            Research intern under Prof. KPK Devan, Dept of Computer Science and Engineering:
+            * Worked on a fake tweet detection system that detects fake tweets related to COVID 19
+            * Extracted tweets related to COVID 19 using tweepy and the twitter API
+            * Developed an LSTM based model to detect fake tweets using NLP
+        
+        - title: Summer Research Intern
+          company: NIT Calicut
+          company_url: 'http://www.nitc.ac.in/'
+          company_logo: nitc_logo_icon
+          location: India
+          date_start: '2021-06-01'
+          date_end: '2021-07-01'
+          description: |2-
+            Research intern under Prof. Prabu Mohandas, Dept of Computer Science and Engineering:
+            * Developed a Music Instrument Recognition System
+            * Built CNN and KNN models and analysed their performance
+            * Both models performed with accuracy above 90%
+        
+            
+    
   
   - block: accomplishments
     id: online courses
