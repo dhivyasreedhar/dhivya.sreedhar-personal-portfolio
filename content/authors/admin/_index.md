@@ -35,8 +35,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 superuser: true
-status:
-  icon: ☕️
+#status:
+#icon: ☕️
 last_name: S
 highlight_name: true
 first_name: Dhivya
@@ -48,3 +48,6 @@ I am a  Computer Science Engineering undergraduate who is passionate about Mach
 {style="text-align: justify;"}
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+design:
+      columns: '2'
