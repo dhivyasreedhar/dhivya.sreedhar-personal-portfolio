@@ -10,6 +10,7 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+    text:
       interests:
          - Artificial Intelligence
          - Machine Learning
@@ -23,7 +24,7 @@ sections:
             institution: Easwari Engineering College
             year: 2018-2022
       # Override your bio text from `authors/admin/_index.md`?
-      text:
+     
     design:
       columns: '2'
   - block: experience
