@@ -10,6 +10,18 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+      interests:
+         - Artificial Intelligence
+         - Machine Learning
+         - Deep Learning
+      organizations:
+         - name: Zoho Corporation
+           url: " https://www.zohocorp.com/"
+      education:
+        courses:
+          - course: BE in Computer Science Engineering
+           institution: Easwari Engineering College
+           year: 2018-2022
       # Override your bio text from `authors/admin/_index.md`?
       text:
     design:
