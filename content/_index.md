@@ -20,8 +20,8 @@ sections:
       education:
         courses:
           - course: BE in Computer Science Engineering
-           institution: Easwari Engineering College
-           year: 2018-2022
+            institution: Easwari Engineering College
+            year: 2018-2022
       # Override your bio text from `authors/admin/_index.md`?
       text:
     design:
