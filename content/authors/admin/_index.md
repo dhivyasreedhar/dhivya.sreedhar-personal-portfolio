@@ -35,8 +35,7 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 superuser: true
-#status:
-#icon: ☕️
+
 last_name: S
 highlight_name: true
 first_name: Dhivya
