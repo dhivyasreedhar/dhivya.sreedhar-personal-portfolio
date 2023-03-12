@@ -107,9 +107,9 @@ sections:
           description: "Selected as a Summer Scholar for the 6th Summer School on Artificial Intelligence 2021 organized by Centre for Visual Information Technology             (CVIT), International Institute of Information Technology Hyderabad from 18 July - 19 August 2022"
           organization: CVIT
           organization_url: http://cvit.iiit.ac.in/summerschool2021/index.php
-          title: Summer School Scholar at CVIT Summer School on AI 2021
+          title: Summer School Scholar at CVIT Summer School on AI 2021 hi
           url: ""
-          company_logo: cvit
+          company_logo:""
           
         - certificate_url: 'https://drive.google.com/file/d/165Z2kMD5cZ2w3yRVXzCY76uSgqg-EThG/view?usp=sharing'
           description: "Selected for the Inspire Science camp, organized by SSN college of Engineering, sponsored by the Department of Science and Technology,                   Government of India. The basic objective of INSPIRE would be tocommunicate the excitements of creative pursuit of science to the youth population of the               country and attract talent to the study of science at an early stage and build the required critical human resource pool for strengthening and expanding the           Science & Technology system and Research and Development base.
