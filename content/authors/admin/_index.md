@@ -33,7 +33,7 @@ social:
     link: https://www.linkedin.com/in/dhivya-s-03b541168/
   - icon: cv
     icon_pack: ai
-    link: static/Dhivya Resume.pdf
+    link: https://github.com/dhivyasreedhar/dhivya.sreedhar/blob/1ba7f649adf851aa374d0d7623a1063dc164e773/static/uploads/Resume.pdf
 superuser: true
 
 last_name: S
@@ -46,5 +46,5 @@ email: dhivyasreedhar@gmail.com
 I am a  Computer Science Engineering undergraduate who is passionate about Machine Learning and Software Development. By comprehensive exposure to the underlying concepts and applying them vividly to various projects, my love for these domains came into being. I am a passionate individual who thrives to build and apply algorithms to solve real-world industry problems.
 {style="text-align: justify;"}
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/Dhivya Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/dhivyasreedhar/dhivya.sreedhar/blob/1ba7f649adf851aa374d0d7623a1063dc164e773/static/uploads/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
