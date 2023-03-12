@@ -31,9 +31,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/dhivya-s-03b541168/
-  - icon: cv
-    icon_pack: ai
-    link: uploads/Resume.pdf
+  
 superuser: true
 
 last_name: S
