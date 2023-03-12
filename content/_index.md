@@ -25,8 +25,7 @@ sections:
             year: 2018-2022
       # Override your bio text from `authors/admin/_index.md`?
      
-      design:
-        columns: '2'
+      
   - block: experience
     id: experience
     content:
