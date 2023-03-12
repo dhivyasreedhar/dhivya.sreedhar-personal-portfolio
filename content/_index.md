@@ -107,7 +107,7 @@ sections:
           description: "Selected as a Summer Scholar for the 6th Summer School on Artificial Intelligence 2021 organized by Centre for Visual Information Technology             (CVIT), International Institute of Information Technology Hyderabad from 18 July - 19 August 2022"
           organization: CVIT
           organization_url: http://cvit.iiit.ac.in/summerschool2021/index.php
-          title: Summer School Scholar at CVIT Summer School on AI 2021 hi
+          title: Summer School Scholar at CVIT Summer School on AI 2021 
           url: ""
           company_logo: ""
           
@@ -122,6 +122,24 @@ sections:
           title: Innovation in Science Pursuit for Inspired Research (INSPIRE) 2017
           url: ""
           company_logo: 
+       - certificate_url: ""
+         date_end: ""
+         date_start: "2021-06-07"
+         description: "Selected as one of the 6 Student Mentors in my department. Responsibilities include mentoring junior students academically and with their                career prospects."
+         organization: SRM Easwari Engineering College
+         organization_url: https://srmeaswari.ac.in/
+         title: Selected as one of the 6 Student Mentors in my department
+         url: ""
+         company_logo: Easwari_Engineering_College_logo (1)
+       - certificate_url: ""
+         date_end: ""
+         date_start: "2021-06-07"
+         description: "Selected as one of the 6 Student Mentors in my department. Responsibilities include mentoring junior students academically and with their                career prospects."
+         organization: VES Institute of Technology
+         organization_url: https://vesit.ves.ac.in/
+         title: Selected as one of the 6 Student Mentors in my department
+         url: ""
+         company_logo: ves-institute-of-technology
 
     
     
