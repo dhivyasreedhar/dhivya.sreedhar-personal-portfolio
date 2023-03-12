@@ -112,7 +112,7 @@ sections:
           company_logo: ""
           
         - certificate_url: 'https://drive.google.com/file/d/165Z2kMD5cZ2w3yRVXzCY76uSgqg-EThG/view?usp=sharing'
-          date_end: "2016-08-8"
+          date_end: "2016-08-08"
           date_start: "2016-08-12"
           description: "Selected for the Inspire Science camp, organized by SSN college of Engineering, sponsored by the Department of Science and Technology,                   Government of India. The basic objective of INSPIRE would be tocommunicate the excitements of creative pursuit of science to the youth population of the               country and attract talent to the study of science at an early stage and build the required critical human resource pool for strengthening and expanding the           Science & Technology system and Research and Development base.
 
