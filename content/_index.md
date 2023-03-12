@@ -63,7 +63,7 @@ sections:
         - title: Undergraduate Researcher
           company: SRM Easwari Engineering College
           company_url: 'https://srmeaswari.ac.in/'
-          company_logo: Easwari_Engineering_College_logo
+          company_logo: 
           location: Chennai, India
           date_start: '2021-05-01'
           date_end: '2022-12-01'
