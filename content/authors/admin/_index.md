@@ -48,5 +48,3 @@ I am a  Computer Science Engineering undergraduate who is passionate about Mach
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-design:
-      columns: '2'
