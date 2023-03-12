@@ -133,7 +133,7 @@ sections:
           url: ""
           company_logo: "Easwari_Engineering_College_logo (1)"
        
-       - certificate_url: "https://drive.google.com/file/d/1FsD6wFvnxFAs48lmvhAGKNasG5Ivagu9/view?usp=sharing"
+        - certificate_url: "https://drive.google.com/file/d/1FsD6wFvnxFAs48lmvhAGKNasG5Ivagu9/view?usp=sharing"
           date_end: "2019-08-01"
           date_start: "2022-03-01"
           description: "Organizing member of Vulcans– Cultural team of EEC : Organized Swagat, Talentia and Retweet (Cultural Fests)"
