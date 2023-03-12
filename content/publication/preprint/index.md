@@ -29,11 +29,11 @@ tags:
   - Source Themes
 projects: []
 summary: ""
-url_dataset: "#"
+url_dataset: ""
 url_project: ""
 publication_short: ""
-url_source: "#"
-url_video: "#"
+url_source: ""
+url_video: ""
 date: 2019-04-07T00:00:00Z
 url_slides: ""
 links:
@@ -44,8 +44,8 @@ image:
   focal_point: ""
   preview_only: false
 publishDate: 2017-01-01T00:00:00Z
-url_poster: "#"
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+url_poster: ""
+url_code: https://github.com/dhivyasreedhar/Lane-detection-for-self-driving-cars
 doi: ""
 ---
 
