@@ -122,7 +122,19 @@ sections:
           title: Innovation in Science Pursuit for Inspired Research (INSPIRE) 2017
           url: ""
           company_logo: ""
-      
+        
+        - certificate_url: ""
+          date_end: ""
+          date_start: "2021-06-07"
+          description: "Selected as one of the 6 Student Mentors in my department. Responsibilities include mentoring junior students academically and with their                 career prospects."
+          organization: SRM Easwari Engineering College
+          organization_url: https://srmeaswari.ac.in/
+          title: Selected as one of the 6 Student Mentors in my department
+          url: ""
+          company_logo: Easwari_Engineering_College_logo (1)
+        
+        
+  
       
 
     
