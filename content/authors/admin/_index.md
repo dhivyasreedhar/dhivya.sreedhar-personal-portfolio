@@ -33,7 +33,7 @@ social:
     link: https://www.linkedin.com/in/dhivya-s-03b541168/
   - icon: cv
     icon_pack: ai
-    link: static/uploads/Resume.pdf
+    link: uploads/Resume.pdf
 superuser: true
 
 last_name: S
