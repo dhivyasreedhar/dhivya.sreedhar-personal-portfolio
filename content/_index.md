@@ -121,7 +121,7 @@ sections:
           organization_url:
           title: Innovation in Science Pursuit for Inspired Research (INSPIRE) 2017
           url: ""
-          company_logo: 
+          company_logo: ""
       
       - certificate_url: ""
          date_end: ""
