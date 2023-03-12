@@ -5,7 +5,7 @@ summary: ""
 url_video: ""
 date: 2023-02-26T13:30:45.586Z
 external_link: ""
-url_slides: ""
+
 title: COVID 19 AI Diagnosis
 tags:
   - Deep Learning
@@ -15,7 +15,7 @@ image:
   focal_point: Smart
   filename: featured.jpg
   alt_text: ""
-url_code: ""
+url_code: "https://github.com/dhivyasreedhar/Covid19CoughDetection"
 ---
 <!--StartFragment-->
 
