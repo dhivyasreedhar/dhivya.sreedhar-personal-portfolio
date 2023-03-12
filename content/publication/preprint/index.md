@@ -14,7 +14,7 @@ abstract: With artificial intelligence technology progressing at a tremendous
   Sign Recognition Benchmark dataset is used. A convolutional neural network is
   used with ADAM optimizer, which gives an accuracy of 95%.
 slides: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: ""
 publication_types:
   - "3"
 authors:
@@ -36,9 +36,7 @@ url_source: ""
 url_video: ""
 date: 2019-04-07T00:00:00Z
 url_slides: ""
-links:
-  - name: Custom Link
-    url: http://example.org
+
 image:
   caption: ""
   focal_point: ""
