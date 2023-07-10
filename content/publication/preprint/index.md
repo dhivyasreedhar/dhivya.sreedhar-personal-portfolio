@@ -22,7 +22,7 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-date: 2019-04-07T00:00:00Z
+date: 2022-04-07T00:00:00Z
 url_slides: ""
 
 image:
@@ -33,5 +33,4 @@ publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
 url_code: https://github.com/dhivyasreedhar/Lane-detection-for-self-driving-cars
 doi: ""
----
 
