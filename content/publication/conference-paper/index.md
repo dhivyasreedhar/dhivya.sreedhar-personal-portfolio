@@ -1,22 +1,6 @@
 ---
-abstract: Music instrument recognition is one of the main tasks of music
-  information retrieval. Identification of instruments present in an audio track
-  provides information about the composition of music. Music instrument
-  recognition in polyphonic music is a challenging task. Existing approaches use
-  temporal, spectral, and perceptual feature extraction techniques to perform
-  music instrument recognition. In the proposed work, a convolutional neural
-  network and k-nearest neighbor classifier framework are implemented to
-  identify the musical instrument present in a monophonic audio file, and the
-  performance of the two models is compared. The model is trained on the London
-  Philharmonic Orchestra dataset which consists of six different classes of
-  musical instruments. Mel spectrogram representation is used to extract
-  features for the convolutional neural network model. For k-nearest neighbors,
-  the Mel-frequency cepstral coefficient’s feature vectors are calculated to
-  perform classification. This approach only works for monophonic music and
-  cannot be used for polyphonic music. The model helps to label the unlabelled
-  audio files so that manual annotation can be avoided. The model performed well
-  with excellent result of 99.17% accuracy for the convolutional neural network
-  and 97% accuracy for the k-nearest neighbor architecture.
+abstract: Music instrument recognition is one of the main tasks of music information retrieval. Identification of instruments present in an audio track provides information about the composition of music. Music instrument recognition in polyphonic music is a challenging task. Existing approaches use temporal, spectral, and perceptual feature extraction techniques to perform music instrument recognition. In the proposed work, a convolutional neural network and k-nearest neighbor classifier framework are implemented to identify the musical instrument present in a monophonic audio file, and the performance of the two models is compared. The model is trained on the London Philharmonic Orchestra dataset which consists of six different classes of musical instruments. Mel spectrogram representation is used to extract features for the convolutional neural network model. For k-nearest neighbors, the Mel-frequency cepstral coefficient’s feature vectors are calculated to perform classification. This approach only works for monophonic music and cannot be used for polyphonic music. The model helps to label the unlabelled audio files so that manual annotation can be avoided. The model performed well with excellent result of 99.17% accuracy for the convolutional neural network and 97% accuracy for the k-nearest neighbor architecture.
+  
 slides: ""
 url_pdf: ""
 publication_types:
