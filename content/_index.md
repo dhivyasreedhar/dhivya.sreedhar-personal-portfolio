@@ -44,8 +44,10 @@ sections:
           description: |2-
               
               * Part of the Manage Engine - Log360 Cloud OD Team
-              * Using ember js, Java, MySQL tech stack
-              * Worked on the search page feature enhancement of the product
+              * Resolved numerous bugs and optimized code, resulting in a 150% performance improvement in a module.
+              * Developed a feature serving as a framework for all application modules, demonstrating advanced knowledge of generalization and scalability.
+              * Contributed to a product serving millions of customers, directly impacting their experience through developing a key feature.
+            
 
               
         - title: Programmer Analyst Trainee Intern
@@ -56,9 +58,9 @@ sections:
           date_start: '2022-01-01'
           date_end: '2022-08-01'
           description: |2-
-            * Part of the Artificial Intelligence and Analytics (AIA) - Informatica Cloud Team
-            * Analysed and tested Data warehousing techniques, ETL tools
-            * Created various mappings using Infomatica Powercenter, IICS
+            * Part of the Artificial Intelligence and Analytics (AIA) - Informatica Cloud Team.
+            * Used Informatica software to design data storage systems to provide clients with faster insight into their business.
+            * Analyzed and tested Data warehousing techniques, ETL tools. Created various mappings using Infomatica Powercenter,IICS.
         - title: Undergraduate Researcher
           company: SRM Easwari Engineering College
           company_url: 'https://srmeaswari.ac.in/'
@@ -81,10 +83,22 @@ sections:
           date_end: '2021-07-01'
           description: |2-
             Research intern under Prof. Prabu Mohandas, Dept of Computer Science and Engineering:
-            * Developed a Music Instrument Recognition System
-            * Built CNN and KNN models and analysed their performance
-            * Both models performed with accuracy above 90%
-        
+            * Worked on finding solutions for the challenging task of Music Instrument Recognition. Developed a model that labels unlabeled audio files so that                 manual annotation can be avoided.
+            * A Convolutional neural network and K nearest neighbors classifier framework were implemented to identify the musical instrument present in a                     monophonic audio file and the performance of the two models are compared.
+            * The model performed well with excellent result of 99.17% accuracy for the Convolutional Neural Network and 97% accuracy for the k-nearest neighbor               architecture. Worked on finding solutions for the challenging task of Music Instrument Recognition. Developed a model that labels  unlabeled audio                files so that manual annotation can be avoided.
+        - title:  Research Intern
+          company: Indian Institute of Information Technology Design & Manufacturing
+          company_url: 'https://www.iiitdm.ac.in/'
+          company_logo: nitc_logo_icon
+          location: India
+          date_start: '2020-05-01'
+          date_end: '2021-05-01'
+          description: |2-
+            Research intern under Dr. Sivaselvan B, Dept of Computer Science and Engineering:
+            * Explored state-of-the-art deep learning based approaches for detecting forged facial images and videos. Delved into the  evaluation metrics                       commonly used for assessing the performance of detection algorithms, highlighting their strengths and limitations.
+            * Presented a comparative study of four popular deep learning architectures, DenseNet, MobileNet, Xception, and EfficientNet, for the detection of                 face forgery.
+            * Conducted a comprehensive evaluation and comparison, to provide valuable insights for researchers and practitioners seeking to leverage deep                      learning models for face forgery detection.
+ 
             
       
      
