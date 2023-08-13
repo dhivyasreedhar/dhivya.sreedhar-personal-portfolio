@@ -90,7 +90,7 @@ sections:
         - title:  Research Intern
           company: Indian Institute of Information Technology Design & Manufacturing
           company_url: 'https://www.iiitdm.ac.in/'
-          company_logo: nitc_logo_icon
+          company_logo: iiitd
           location: India
           date_start: '2020-05-01'
           date_end: '2021-05-01'
