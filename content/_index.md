@@ -301,9 +301,9 @@ sections:
   - block: markdown
     content:
       title: My Art Portfolio
-      id: Art Porfolio
+      id: Art
       text: |-
-            I am a passionate artist with over 14 years of experience and numerous awards. I am skilled in a variety of mediums, and art is one of my most cherished passions. Here are a few of my artworks. 
+            I am a passionate artist with over 14 years of experience and numerous awards. 
             {{< gallery album="gallery" resize_options="200x200" >}}
         
     design:
