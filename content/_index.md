@@ -302,8 +302,8 @@ sections:
     content:
       title: My Art Portfolio
       id: Art Porfolio
-      description: I am a passionate artist with over 14 years of experience and numerous awards. I am skilled in a variety of mediums, and art is one of my most cherished passions. Here are a few of my artworks. 
       text: |-
+            I am a passionate artist with over 14 years of experience and numerous awards. I am skilled in a variety of mediums, and art is one of my most cherished passions. Here are a few of my artworks. 
             {{< gallery album="gallery" resize_options="200x200" >}}
         
     design:
