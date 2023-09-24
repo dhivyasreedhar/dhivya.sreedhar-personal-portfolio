@@ -298,13 +298,18 @@ sections:
       columns: '2'
 
 
-  - block: portfolio
-    id: art portfolio
+  - block: markdown
     content:
-      title: art portfolio
-      filters:
-        folders:
-          - art portfolio
+      title: Gallery
+      subtitle: ''
+      text: |-
+            {{< gallery album="gallery" resize_options="250x250" >}}
+        
+    design:
+      columns: '1'
+    
+   
+
 
          
   - block: contact
