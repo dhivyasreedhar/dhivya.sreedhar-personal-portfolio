@@ -27,7 +27,7 @@ main:
     url: '#featured'
     weight: 80
   - name: Art Portfolio
-    url: '#Art Porfolio'
+    url: '#Art'
     weight: 90
   - name: Contact
     url: '#contact'
