@@ -302,7 +302,7 @@ sections:
     content:
       title: My Art Portfolio
       id: Art Porfolio
-      subtitle: I am a passionate artist with over 14 years of experience and numerous awards. I am skilled in a variety of mediums, and art is one of my most cherished passions. Here are a few of my artworks. 
+      description: I am a passionate artist with over 14 years of experience and numerous awards. I am skilled in a variety of mediums, and art is one of my most cherished passions. Here are a few of my artworks. 
       text: |-
             {{< gallery album="gallery" resize_options="200x200" >}}
         
