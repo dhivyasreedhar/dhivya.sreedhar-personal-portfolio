@@ -299,9 +299,9 @@ sections:
 
 
   - block: markdown
+    id: Art
     content:
-      title: Art
-      id: Art
+      title: My Art Portfolio
       text: |-
            
             {{< gallery album="gallery" resize_options="200x200" >}}
