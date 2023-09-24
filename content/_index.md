@@ -300,10 +300,10 @@ sections:
 
   - block: markdown
     content:
-      title: My Art Portfolio
+      title: Art
       id: Art
       text: |-
-            I am a passionate artist with over 14 years of experience and numerous awards. 
+           
             {{< gallery album="gallery" resize_options="200x200" >}}
         
     design:
